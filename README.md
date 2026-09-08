@@ -13,7 +13,7 @@ The repository is updated according to the course flow. Here you can find the fo
 
 Moreover, there are several additional course pages:
 
-- [Google Classroom]((https://classroom.google.com/w/ODc3ODg4NjcwMDUz/t/all)) - home assignments
+- [Google Classroom](https://classroom.google.com/w/ODc3ODg4NjcwMDUz/t/all) - home assignments
 - [Yandex.Disk](https://disk.yandex.ru/client/disk/%D0%9C%D0%B0%D0%B3%D0%B8%D1%81%D1%82%D1%80%D0%B0%D1%82%D1%83%D1%80%D0%B0/%D0%9C%D0%B0%D0%B3%D0%B8%D1%81%D1%82%D1%80%D0%B0%D1%82%D1%83%D1%80%D0%B0%202026-2028) - video records of lectures
 
 ## Recommended Resources
