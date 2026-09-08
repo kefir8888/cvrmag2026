@@ -9,7 +9,7 @@ Authors:
 The repository is updated according to the course flow. Here you can find the following parts of the course:
 
 - [Home Assignments](https://classroom.google.com/w/ODc3ODg4NjcwMDUz/t/all)
-- [Lectures((https://disk.yandex.ru/client/disk/%D0%9C%D0%B0%D0%B3%D0%B8%D1%81%D1%82%D1%80%D0%B0%D1%82%D1%83%D1%80%D0%B0/%D0%9C%D0%B0%D0%B3%D0%B8%D1%81%D1%82%D1%80%D0%B0%D1%82%D1%83%D1%80%D0%B0%202026-2028/Computer%20Vision%20in%20Robotics))
+- [Lectures](https://disk.yandex.ru/client/disk/%D0%9C%D0%B0%D0%B3%D0%B8%D1%81%D1%82%D1%80%D0%B0%D1%82%D1%83%D1%80%D0%B0/%D0%9C%D0%B0%D0%B3%D0%B8%D1%81%D1%82%D1%80%D0%B0%D1%82%D1%83%D1%80%D0%B0%202026-2028/Computer%20Vision%20in%20Robotics)
 
 Moreover, there are several additional course pages:
 
