@@ -1,4 +1,4 @@
-# Computer Vision in Robotics - Starkit MIPT Master (Autumn 2025 - Spring 2026)
+# Computer Vision in Robotics - Starkit MIPT Master (Autumn 2026 - Spring 2027)
 
 The repository for course CVR-2026 by robotics team Starkit from MIPT. The course is a part of MSc program for MIPT students in Artificial Intelligence and Robotics.
 
